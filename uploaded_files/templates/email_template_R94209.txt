@@ -1,0 +1,18 @@
+Subject: Receipt Details - R94209
+
+Dear Cooper-Goodman,
+
+Please find the details of your receipt below:
+
+Receipt Number: R94209
+Transaction Type: Cheque
+Client Name: John Hernandez
+Amount: 114.61
+Date: 01-05-2024
+Exception Status: Yes
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

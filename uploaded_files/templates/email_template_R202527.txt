@@ -1,0 +1,18 @@
+Subject: Receipt Details - R202527
+
+Dear Johnson-Tanner,
+
+Please find the details of your receipt below:
+
+Receipt Number: R202527
+Transaction Type: Card
+Client Name: Julie Howard
+Amount: 897.06
+Date: 09-04-2024
+Exception Status: Yes
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

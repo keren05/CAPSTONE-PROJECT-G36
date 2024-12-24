@@ -1,0 +1,52 @@
+receipt_number,transaction_type,client_name,vendor_name,vendor_email,amount,date,is_exception,is_paper,template_name
+R827688,Cheque,Frederick Ochoa,Turner and Sons,jessicalong@brown-jones.net,467.49,07-02-2024,False,False,email_template_R827688.txt
+R290049,Cheque,Timothy Bowen,"Todd, Wolf and Rodriguez",mitchellbennett@cardenas-washington.com,815.99,01-03-2024,False,False,email_template_R290049.txt
+R823894,Cheque,Andrew Patel,Gibbs-Dunlap,alex15@garcia-rice.com,415.45,12-01-2024,False,False,email_template_R823894.txt
+R390661,Cheque,Katherine Bowman,Morgan-Meyer,angelaturner@gibson-rowland.org,241.35,21-08-2024,False,False,email_template_R390661.txt
+R383748,Cheque,Kathleen Thomas,Stafford-Lopez,meyerjill@chase.com,976.37,13-01-2024,False,True,email_template_R383748.txt
+R373567,Cheque,Courtney Kim,Cruz-Fowler,iacevedo@galvan.com,534.25,16-08-2024,False,False,email_template_R373567.txt
+R552325,Cheque,Ashley Hoffman,"Daniels, Campbell and Diaz",pibarra@martinez.com,15.28,14-09-2024,False,False,email_template_R552325.txt
+R457294,Cheque,Jennifer Green,Murphy-Erickson,kconley@banks-grimes.com,881.41,24-01-2024,False,False,email_template_R457294.txt
+R45630,Cheque,Daniel Pope,Brown-Casey,woodsdarryl@combs.biz,842.4,03-10-2024,False,False,email_template_R45630.txt
+R480552,Cheque,Robert Miles,Brock Inc,christina34@wagner.info,653.82,10-01-2024,False,False,email_template_R480552.txt
+R628704,Cheque,Ryan Monroe,Jimenez-Fitzgerald,ydecker@mcfarland-andersen.org,90.15,18-03-2024,False,True,email_template_R628704.txt
+R941581,Cheque,Elijah Wade,Mccann-Martin,ortegastacy@oconnor-thompson.org,191.3,30-03-2024,False,False,email_template_R941581.txt
+R140625,Cheque,Joel Wiggins,"Kelley, Nguyen and Knight",gonzalezjoseph@oliver.com,678.7,09-02-2024,False,False,email_template_R140625.txt
+R74104,Cheque,Samantha Fuller DDS,Smith-Davis,jsmith@frye.com,558.2,01-06-2024,False,False,email_template_R74104.txt
+R179203,Cheque,Courtney Sutton,Johnson Group,thomaschristina@garcia.com,614.82,21-05-2024,False,False,email_template_R179203.txt
+R276114,Cheque,Shannon Ford,Frye-Blanchard,smithsteven@garcia.com,284.48,12-03-2024,False,False,email_template_R276114.txt
+R246814,Cheque,Amanda Williams,Mcknight-Carr,heather56@cannon.org,148.18,08-02-2024,False,False,email_template_R246814.txt
+R405947,Cheque,Gina Carroll,"Ferguson, Patterson and Bryan",danielmurphy@rivera-ortiz.info,73.9,03-02-2024,False,False,email_template_R405947.txt
+R684613,Cheque,Frank Griffin,Lee Group,lori68@bryant.com,68.8,21-03-2024,True,False,email_template_R684613.txt
+R657655,Cheque,Daniel Stevens,"Leonard, Reed and Medina",baileyelizabeth@fowler-porter.org,947.84,07-03-2024,False,False,email_template_R657655.txt
+R513037,Cheque,Janet Meyer,White Ltd,cartermichael@hudson.com,266.76,26-01-2024,False,False,email_template_R513037.txt
+R354617,Cheque,Darlene Keller,"Moran, Vasquez and Dorsey",lpeters@jackson.com,214.9,09-02-2024,False,True,email_template_R354617.txt
+R70726,Cheque,Christopher Banks,Spencer-Phillips,bryanttaylor@herman.com,531.61,16-01-2024,False,False,email_template_R70726.txt
+R423667,Cheque,Terry Jimenez,"Fernandez, Doyle and Sanders",edwardsivan@perkins.com,628.11,13-02-2024,False,False,email_template_R423667.txt
+R841877,Cheque,Steven Banks,"Torres, Davis and Garcia",candace04@fuentes-arias.info,294.89,08-06-2024,False,False,email_template_R841877.txt
+R942570,Cheque,Patrick Brewer,Ramos Group,pateltimothy@hayes.com,550.19,15-01-2024,True,True,email_template_R942570.txt
+R943276,Cheque,Tyler Morgan,Garrett-Marshall,andrew35@owen-morse.info,363.15,11-05-2024,False,False,email_template_R943276.txt
+R869659,Cheque,Anthony Schneider,Butler-Hernandez,michelle00@brady-mcdonald.biz,332.07,19-02-2024,True,False,email_template_R869659.txt
+R960942,Cheque,Thomas Cruz,Brown Group,sara48@turner.com,563.19,30-04-2024,False,True,email_template_R960942.txt
+R745051,Cheque,Ronald Baker MD,"Ewing, Wilson and Garcia",sonia52@miller-bishop.org,143.23,01-01-2024,False,False,email_template_R745051.txt
+R167441,Cheque,Aaron Hernandez,"Hutchinson, Santos and Benjamin",brittanychen@williams.com,242.84,22-03-2024,False,True,email_template_R167441.txt
+R233645,Cheque,Michael Harrington,Soto-Ross,tinafriedman@lozano.biz,464.99,12-08-2024,False,False,email_template_R233645.txt
+R84782,Cheque,Jacqueline Townsend,Anderson-Thompson,katrinalopez@johnson.com,275.04,15-04-2024,True,False,email_template_R84782.txt
+R137153,Cheque,Diane Smith DDS,Maynard Group,tbranch@young.biz,137.33,10-03-2024,False,True,email_template_R137153.txt
+R373897,Cheque,Micheal Porter MD,Coleman Ltd,michaelmccormick@riddle-bennett.com,348.41,21-06-2024,False,False,email_template_R373897.txt
+R343500,Cheque,Patrick Lowe,Chavez-Evans,davislaura@contreras.com,57.88,14-02-2024,False,False,email_template_R343500.txt
+R919749,Cheque,Matthew Saunders,Rios-Ward,blynch@dyer-webb.com,42.6,08-09-2024,False,False,email_template_R919749.txt
+R541972,Cheque,Kelly Olsen,Higgins-Mayo,joshua06@ford-lopez.com,516.79,08-07-2024,False,False,email_template_R541972.txt
+R241538,Cheque,Jonathan Jackson,Mills Ltd,wigginsjeffrey@welch.com,347.08,23-05-2024,False,True,email_template_R241538.txt
+R94209,Cheque,John Hernandez,Cooper-Goodman,brendafrazier@west.com,114.61,01-05-2024,True,False,email_template_R94209.txt
+R45270,Cheque,Gavin Robertson,Duke-Brooks,wyork@clark.org,596.3,25-04-2024,False,False,email_template_R45270.txt
+R76442,Cheque,Sheri Reed,"Collins, Howell and Wells",raymondcarpenter@kelly.com,15.1,11-06-2024,False,False,email_template_R76442.txt
+R591595,Cheque,James Williams,Salas and Sons,davidbray@hunt-brooks.info,228.52,08-02-2024,False,True,email_template_R591595.txt
+R503001,Cheque,Amber Ramirez,Hurst-Day,laurie44@alvarez.com,296.12,23-02-2024,False,True,email_template_R503001.txt
+R206032,Cheque,Daniel Walters,Woods Group,ndixon@williams-shelton.biz,549.47,25-07-2024,False,False,email_template_R206032.txt
+R728105,Cheque,Sara Rocha,Hart Ltd,alexandra31@buchanan-rose.org,378.87,23-01-2024,False,False,email_template_R728105.txt
+R281614,Cheque,Mr. Daniel Garcia,Jones-Clarke,johnsonjohn@scott.biz,956.11,23-06-2024,False,True,email_template_R281614.txt
+R408867,Cheque,Adrian Lang,Esparza-Torres,malik69@glass.com,932.79,12-04-2024,False,False,email_template_R408867.txt
+R129962,Cheque,Sarah Black,"Williams, Heath and Ross",justin20@wise.com,72.57,16-08-2024,False,False,email_template_R129962.txt
+R755669,Cheque,Tracy Pittman,Tran Group,marylucas@may-lewis.com,559.29,14-06-2024,False,False,email_template_R755669.txt
+R505615,Cheque,Kevin Lane,"Richardson, Wilson and Stevens",josephrodgers@griffith.com,914.1,03-05-2024,False,False,email_template_R505615.txt

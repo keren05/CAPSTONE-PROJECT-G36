@@ -1,0 +1,18 @@
+Subject: Receipt Details - R503001
+
+Dear Hurst-Day,
+
+Please find the details of your receipt below:
+
+Receipt Number: R503001
+Transaction Type: Cheque
+Client Name: Amber Ramirez
+Amount: 296.12
+Date: 23-02-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

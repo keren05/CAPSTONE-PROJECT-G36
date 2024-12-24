@@ -1,0 +1,18 @@
+Subject: Receipt Details - R212121
+
+Dear Sheppard LLC,
+
+Please find the details of your receipt below:
+
+Receipt Number: R212121
+Transaction Type: Card
+Client Name: Michelle Kirby
+Amount: 747.5
+Date: 17-09-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

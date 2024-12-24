@@ -1,0 +1,18 @@
+Subject: Receipt Details - R60613
+
+Dear Jones, Howell and Stewart,
+
+Please find the details of your receipt below:
+
+Receipt Number: R60613
+Transaction Type: Card
+Client Name: Sierra Murphy
+Amount: 146.29
+Date: 29-04-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

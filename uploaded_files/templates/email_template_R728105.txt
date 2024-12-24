@@ -1,0 +1,18 @@
+Subject: Receipt Details - R728105
+
+Dear Hart Ltd,
+
+Please find the details of your receipt below:
+
+Receipt Number: R728105
+Transaction Type: Cheque
+Client Name: Sara Rocha
+Amount: 378.87
+Date: 23-01-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

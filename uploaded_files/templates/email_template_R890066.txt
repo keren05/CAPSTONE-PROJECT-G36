@@ -1,0 +1,18 @@
+Subject: Receipt Details - R890066
+
+Dear Brewer Ltd,
+
+Please find the details of your receipt below:
+
+Receipt Number: R890066
+Transaction Type: Card
+Client Name: Manuel Ramirez
+Amount: 208.56
+Date: 20-07-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

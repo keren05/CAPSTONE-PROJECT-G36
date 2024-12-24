@@ -1,0 +1,18 @@
+Subject: Receipt Details - R241538
+
+Dear Mills Ltd,
+
+Please find the details of your receipt below:
+
+Receipt Number: R241538
+Transaction Type: Cheque
+Client Name: Jonathan Jackson
+Amount: 347.08
+Date: 23-05-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

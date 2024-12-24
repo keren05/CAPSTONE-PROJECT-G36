@@ -1,0 +1,18 @@
+Subject: Receipt Details - R960942
+
+Dear Brown Group,
+
+Please find the details of your receipt below:
+
+Receipt Number: R960942
+Transaction Type: Cheque
+Client Name: Thomas Cruz
+Amount: 563.19
+Date: 30-04-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

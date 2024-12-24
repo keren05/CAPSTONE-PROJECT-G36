@@ -1,0 +1,18 @@
+Subject: Receipt Details - R116854
+
+Dear Campbell Inc,
+
+Please find the details of your receipt below:
+
+Receipt Number: R116854
+Transaction Type: Card
+Client Name: Jasmine Robbins
+Amount: 155.02
+Date: 21-02-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

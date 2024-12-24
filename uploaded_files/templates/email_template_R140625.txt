@@ -1,0 +1,18 @@
+Subject: Receipt Details - R140625
+
+Dear Kelley, Nguyen and Knight,
+
+Please find the details of your receipt below:
+
+Receipt Number: R140625
+Transaction Type: Cheque
+Client Name: Joel Wiggins
+Amount: 678.7
+Date: 09-02-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

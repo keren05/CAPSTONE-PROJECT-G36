@@ -1,0 +1,18 @@
+Subject: Receipt Details - R179203
+
+Dear Johnson Group,
+
+Please find the details of your receipt below:
+
+Receipt Number: R179203
+Transaction Type: Cheque
+Client Name: Courtney Sutton
+Amount: 614.82
+Date: 21-05-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

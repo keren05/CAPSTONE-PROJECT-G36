@@ -1,0 +1,18 @@
+Subject: Receipt Details - R770193
+
+Dear Meyer PLC,
+
+Please find the details of your receipt below:
+
+Receipt Number: R770193
+Transaction Type: Card
+Client Name: Jonathan Baker
+Amount: 322.51
+Date: 22-06-2024
+Exception Status: Yes
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

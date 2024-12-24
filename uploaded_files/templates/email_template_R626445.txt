@@ -1,0 +1,18 @@
+Subject: Receipt Details - R626445
+
+Dear Bauer-Hill,
+
+Please find the details of your receipt below:
+
+Receipt Number: R626445
+Transaction Type: Card
+Client Name: Brian Key
+Amount: 303.45
+Date: 21-03-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

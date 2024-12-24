@@ -1,0 +1,18 @@
+Subject: Receipt Details - R942570
+
+Dear Ramos Group,
+
+Please find the details of your receipt below:
+
+Receipt Number: R942570
+Transaction Type: Cheque
+Client Name: Patrick Brewer
+Amount: 550.19
+Date: 15-01-2024
+Exception Status: Yes
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

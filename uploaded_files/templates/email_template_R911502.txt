@@ -1,0 +1,18 @@
+Subject: Receipt Details - R911502
+
+Dear Miller PLC,
+
+Please find the details of your receipt below:
+
+Receipt Number: R911502
+Transaction Type: Card
+Client Name: Jose Farrell
+Amount: 496.5
+Date: 01-02-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

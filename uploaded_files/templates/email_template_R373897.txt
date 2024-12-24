@@ -1,0 +1,18 @@
+Subject: Receipt Details - R373897
+
+Dear Coleman Ltd,
+
+Please find the details of your receipt below:
+
+Receipt Number: R373897
+Transaction Type: Cheque
+Client Name: Micheal Porter MD
+Amount: 348.41
+Date: 21-06-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

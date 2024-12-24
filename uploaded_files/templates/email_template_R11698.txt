@@ -1,0 +1,18 @@
+Subject: Receipt Details - R11698
+
+Dear Gilbert LLC,
+
+Please find the details of your receipt below:
+
+Receipt Number: R11698
+Transaction Type: Card
+Client Name: Eric Walls
+Amount: 565.74
+Date: 15-05-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

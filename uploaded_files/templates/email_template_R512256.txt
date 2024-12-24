@@ -1,0 +1,18 @@
+Subject: Receipt Details - R512256
+
+Dear Howell, Hughes and Warren,
+
+Please find the details of your receipt below:
+
+Receipt Number: R512256
+Transaction Type: Card
+Client Name: Michael Sanchez
+Amount: 724.43
+Date: 04-07-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

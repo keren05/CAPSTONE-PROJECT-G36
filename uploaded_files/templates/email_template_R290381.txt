@@ -1,0 +1,18 @@
+Subject: Receipt Details - R290381
+
+Dear Williams LLC,
+
+Please find the details of your receipt below:
+
+Receipt Number: R290381
+Transaction Type: Card
+Client Name: Eric Jackson
+Amount: 250.3
+Date: 08-02-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

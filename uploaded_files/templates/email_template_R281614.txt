@@ -1,0 +1,18 @@
+Subject: Receipt Details - R281614
+
+Dear Jones-Clarke,
+
+Please find the details of your receipt below:
+
+Receipt Number: R281614
+Transaction Type: Cheque
+Client Name: Mr. Daniel Garcia
+Amount: 956.11
+Date: 23-06-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

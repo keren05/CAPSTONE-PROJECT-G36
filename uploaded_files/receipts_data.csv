@@ -1,0 +1,26 @@
+receipt_number,date,transaction_type,amount,vendor_name,file_name,client_name,is_exception,is_paper
+7f712f50-d894-46c1-8f40-283c8af8b7d6,29/05/2024,Card,1242.3,Walker PLC,1003-receipt.jpg,Matthew Cook,True,True
+52003dda-2dc6-4a91-84e6-1a72f7d93372,13/08/2024,Card,767.96,Houston-Floyd,1006-receipt.jpg,Joshua Braun,False,True
+be71931b-9b1f-4f6f-bb45-e5cbaad306d2,30/07/2024,Card,8116.64,Rowe-Blake,1013-receipt.jpg,Rachael Hernandez,False,True
+b9d2a051-b9fa-4db7-8957-0f6003a8932e,07/11/2024,Cheque,6068.9,Romero-Pace,1021-receipt.jpg,Melissa Farley,False,True
+61903a1f-7f8f-4658-85d1-a28fe2b93423,02/10/2024,Card,9190.61,"Compton, Anderson and Jordan",1028-receipt.jpg,Sara Drake,False,True
+b8da400b-6290-4747-9b44-41a32584cb36,17/12/2024,Cheque,6492.97,"Heath, Martinez and Gomez",1034-receipt.jpg,Lindsay Barnes,True,True
+77b680c2-b0e1-4439-aafc-b2aac4c328df,03/02/2024,Card,6730.96,Glover-Cunningham,1044-receipt.jpg,Natalie Adams,False,True
+513f95e1-3db8-4de5-b56c-0411a95c8dc7,28/06/2024,Cheque,242.86,"Garcia, Howe and Reynolds",1051-receipt.jpg,Jonathan Williams,False,True
+1303b6b4-faf9-4d09-b0f1-a3f805fa8bd1,18/08/2024,Card,9264.11,"Juarez, Fernandez and Robinson",1058-receipt.jpg,Pamela Robinson,False,True
+73f44495-1546-4a10-b6f2-b28240f07b78,21/01/2024,Cheque,1133.87,Brooks-Perkins,1063-receipt.jpg,Anne Kennedy,True,True
+617459af-4022-45f6-b184-cac13828ebc0,17/06/2024,Card,4498.61,Townsend-Evans,1076-receipt.jpg,Dr. Alexis Hodge,True,True
+2b3c1f60-4ca5-4979-be36-7804ae5902df,24/07/2024,Card,8766.83,Spence-Floyd,1082-receipt.jpg,Catherine Thornton,False,True
+e04214ab-6f36-43b0-8fd7-75c8290e735d,07/11/2024,Cheque,5101.57,Carlson and Sons,1097-receipt.jpg,Nichole Morton,False,True
+e52802b2-dabf-48bc-806e-a6b9815cf93c,01/05/2024,Card,8472.76,Martinez and Sons,1101-receipt.jpg,Christine Howell,False,True
+cecd616d-ef75-44d2-a518-4f1368a54023,06/10/2024,Card,6325.82,Rice Ltd,1108-receipt.jpg,Peter Sutton,False,True
+a3412a75-7c9e-4c66-8faa-019bbc8b51dd,24/02/2024,Cheque,1578.25,Williams LLC,1114-receipt.jpg,Daniel Jones,True,True
+3981c844-e028-42bc-9777-81efdfe847d5,27/04/2024,Card,2795.51,Stephens PLC,1126-receipt.jpg,Daniel Gray,True,True
+c1ea207e-5dd3-4bcf-a86e-1d443727274d,08/05/2024,Cheque,859.15,Bradford-Patterson,1133-receipt.jpg,Lisa Hudson,False,True
+05a2f34d-7889-48db-9a7f-c632d162e9e8,07/02/2024,Card,7767.47,"Bradshaw, Newman and Shaw",1143-receipt.jpg,Daryl Soto,False,True
+690ddc13-02ef-4412-b1fe-8ac47734f825,05/01/2024,Card,2166.48,Norman-Williams,1156-receipt.jpg,Kristen Brock,False,True
+f110f6d5-af90-4a0b-9230-0d7504917021,25/04/2024,Card,6473.75,Holmes PLC,1164-receipt.jpg,Carolyn Rodriguez,False,True
+2a02ef41-4f7c-43d1-b701-bd3204b99d8e,26/10/2024,Cheque,9964.86,Williams and Sons,1171-receipt.jpg,Mark Watson,True,True
+e885db92-2af4-4d9f-abf2-e330ed9d1723,29/09/2024,Card,7664.69,"Garcia, Gonzalez and James",1178-receipt.jpg,Curtis Guzman,True,True
+cc43efe4-754e-49f5-a75e-2163f0020223,26/01/2024,Card,5980.40,Gross Ltd,1185-receipt.jpg,Alison Perry,False,True
+fa7e2d87-3967-458c-9aac-0156286326cf,21/12/2024,Card,8272.14,Cook-Thomas,1190-receipt.jpg,Scott Torres,False,True

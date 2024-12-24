@@ -1,0 +1,18 @@
+Subject: Receipt Details - R684613
+
+Dear Lee Group,
+
+Please find the details of your receipt below:
+
+Receipt Number: R684613
+Transaction Type: Cheque
+Client Name: Frank Griffin
+Amount: 68.8
+Date: 21-03-2024
+Exception Status: Yes
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

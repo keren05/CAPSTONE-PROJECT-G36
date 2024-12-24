@@ -1,0 +1,18 @@
+Subject: Receipt Details - R45270
+
+Dear Duke-Brooks,
+
+Please find the details of your receipt below:
+
+Receipt Number: R45270
+Transaction Type: Cheque
+Client Name: Gavin Robertson
+Amount: 596.3
+Date: 25-04-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

@@ -1,0 +1,18 @@
+Subject: Receipt Details - R597310
+
+Dear Washington Inc,
+
+Please find the details of your receipt below:
+
+Receipt Number: R597310
+Transaction Type: Card
+Client Name: Barry Maxwell
+Amount: 123.18
+Date: 29-01-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

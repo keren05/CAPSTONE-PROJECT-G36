@@ -1,0 +1,18 @@
+Subject: Receipt Details - R330101
+
+Dear Abbott-Martin,
+
+Please find the details of your receipt below:
+
+Receipt Number: R330101
+Transaction Type: Card
+Client Name: Steven Morrison
+Amount: 390.81
+Date: 06-08-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

@@ -1,0 +1,18 @@
+Subject: Receipt Details - R354617
+
+Dear Moran, Vasquez and Dorsey,
+
+Please find the details of your receipt below:
+
+Receipt Number: R354617
+Transaction Type: Cheque
+Client Name: Darlene Keller
+Amount: 214.9
+Date: 09-02-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

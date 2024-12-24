@@ -1,0 +1,18 @@
+Subject: Receipt Details - R426783
+
+Dear Clark, Williamson and Brown,
+
+Please find the details of your receipt below:
+
+Receipt Number: R426783
+Transaction Type: Card
+Client Name: Judy Martin
+Amount: 700.42
+Date: 09-04-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

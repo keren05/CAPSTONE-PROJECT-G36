@@ -1,0 +1,18 @@
+Subject: Receipt Details - R271121
+
+Dear Williams, Kent and Brooks,
+
+Please find the details of your receipt below:
+
+Receipt Number: R271121
+Transaction Type: Card
+Client Name: Timothy Perry
+Amount: 428.3
+Date: 10-09-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

@@ -1,0 +1,50 @@
+receipt_number,transaction_type,client_name,vendor_name,vendor_email,amount,date,is_exception,is_paper,template_name
+R189834,Card,Patricia Brown,Hudson Group,kerenelisheba5@gmail.com,653.17,15-06-2024,False,False,email_template_R189834.txt
+R356441,Card,Lori Smith,,chiragks2003cr7@gmail.com,763.51,01-06-2024,False,False,email_template_R356441.txt
+R202527,Card,Julie Howard,Johnson-Tanner,vikhyathmb44@gmail.com,897.06,09-04-2024,True,True,email_template_R202527.txt
+R791131,Card,Karen Valencia,Hamilton LLC,elishebakeren@gmail.com,264.27,29-02-2024,False,False,email_template_R791131.txt
+R60613,Card,Sierra Murphy,"Jones, Howell and Stewart",xleach@avila.biz,146.29,29-04-2024,False,True,email_template_R60613.txt
+R116854,Card,Jasmine Robbins,Campbell Inc,tammyperez@chavez-mejia.org,155.02,21-02-2024,False,False,email_template_R116854.txt
+R439763,Card,Ronald Harris,"Berry, Clark and Drake",cheyennewashington@johnson.com,819.24,03-01-2024,False,False,email_template_R439763.txt
+R843246,Card,Rita Goodwin,Hodge LLC,jacksonnicholas@brown.com,189.69,14-05-2024,False,True,email_template_R843246.txt
+R407054,Card,Valerie Hoover,Tran Ltd,brownmartin@martin-williams.org,620.87,27-05-2024,True,False,email_template_R407054.txt
+R753737,Card,Jose Cook,Blankenship PLC,michael20@daniels.net,265.31,01-05-2024,False,False,email_template_R753737.txt
+R886323,Card,Alexander Phillips,Garcia-Green,masonerica@perry.info,436.2,28-07-2024,False,False,email_template_R886323.txt
+R559131,Card,Danielle Castillo,Vega Ltd,rcooper@blanchard.info,764.23,05-09-2024,False,False,email_template_R559131.txt
+R810682,Card,Deborah White,Reyes-Adkins,michaelmiller@scott.com,809.51,07-06-2024,False,False,email_template_R810682.txt
+R637990,Card,Mrs. Dawn Fletcher MD,Swanson Group,kennedybryan@anderson.com,897.26,08-04-2024,True,False,email_template_R637990.txt
+R572977,Card,Katherine Taylor,"Best, Austin and Nelson",jonesnathan@walker.com,528.9,18-05-2024,False,False,email_template_R572977.txt
+R770193,Card,Jonathan Baker,Meyer PLC,bsmith@francis-edwards.com,322.51,22-06-2024,True,False,email_template_R770193.txt
+R665844,Card,James Woods,Case LLC,bonniewilliams@chen-brown.com,984.25,24-05-2024,False,False,email_template_R665844.txt
+R426783,Card,Judy Martin,"Clark, Williamson and Brown",chris47@baker.com,700.42,09-04-2024,False,True,email_template_R426783.txt
+R799958,Card,Mariah Newman,Hall and Sons,christopheribarra@hernandez.biz,819.48,07-08-2024,False,False,email_template_R799958.txt
+R965110,Card,Nicole Austin,"Colon, Frazier and Snyder",wreed@griffin.com,502.17,21-08-2024,False,False,email_template_R965110.txt
+R77518,Card,Brian Sullivan,"Marquez, Ayala and Benton",harrisleroy@williams.com,232.17,07-03-2024,False,False,email_template_R77518.txt
+R616888,Card,Susan Caldwell,"Kaiser, Barnett and Page",jschultz@mullins.org,740.77,11-05-2024,True,False,email_template_R616888.txt
+R212121,Card,Michelle Kirby,Sheppard LLC,montgomerymichael@clay-humphrey.com,747.5,17-09-2024,False,True,email_template_R212121.txt
+R11698,Card,Eric Walls,Gilbert LLC,jbarnett@friedman.net,565.74,15-05-2024,False,False,email_template_R11698.txt
+R330101,Card,Steven Morrison,Abbott-Martin,christopher73@marks-hunter.com,390.81,06-08-2024,False,False,email_template_R330101.txt
+R911502,Card,Jose Farrell,Miller PLC,lorismith@jones.com,496.5,01-02-2024,False,False,email_template_R911502.txt
+R991697,Card,David Johnson,Evans Group,lthomas@lee.com,974.92,08-09-2024,False,False,email_template_R991697.txt
+R128756,Card,Carolyn Moore,White and Sons,michelletran@webb.info,872.93,25-06-2024,False,False,email_template_R128756.txt
+R764701,Card,Sue Shaffer,Benson-James,johnflores@bailey.com,521.44,21-06-2024,False,False,email_template_R764701.txt
+R597310,Card,Barry Maxwell,Washington Inc,benjaminmoore@morgan-oneill.com,123.18,29-01-2024,False,True,email_template_R597310.txt
+R512256,Card,Michael Sanchez,"Howell, Hughes and Warren",robertberry@smith.com,724.43,04-07-2024,False,True,email_template_R512256.txt
+R933935,Card,Jennifer Jacobson,Ortega-Campbell,paul95@taylor-johnson.com,219.62,13-03-2024,False,True,email_template_R933935.txt
+R730641,Card,Sharon Hobbs,Sanchez-Daniel,angela11@porter-knox.com,114.47,03-03-2024,False,False,email_template_R730641.txt
+R622644,Card,Jamie Duke,Barry Inc,sknight@campbell-robinson.com,756.01,16-02-2024,False,False,email_template_R622644.txt
+R891152,Card,Robert Rojas,Wallace-Hall,jeffrey23@miller.net,721.13,15-08-2024,False,False,email_template_R891152.txt
+R271121,Card,Timothy Perry,"Williams, Kent and Brooks",bwhitney@russell-patterson.net,428.3,10-09-2024,False,False,email_template_R271121.txt
+R841305,Card,Kelly Hayes,Adams-Ramirez,jesus72@schwartz.com,303.74,07-02-2024,False,False,email_template_R841305.txt
+R287521,Card,Jennifer Gonzalez,Rogers Inc,huertalaura@stone-thomas.net,132.27,13-02-2024,False,False,email_template_R287521.txt
+R554210,Card,Erica Carter,Rogers LLC,roberto31@morris.com,918.1,16-06-2024,False,False,email_template_R554210.txt
+R326581,Card,David Cruz,"Morgan, Nunez and Butler",hintonjill@garcia.com,445.71,12-04-2024,False,False,email_template_R326581.txt
+R109010,Card,Dr. Michael Singh,Bryan-Moore,paulareed@smith-fuentes.com,388.45,11-05-2024,False,False,email_template_R109010.txt
+R839571,Card,Jason Perez,Jones PLC,robinlambert@woods.org,860.51,22-09-2024,False,True,email_template_R839571.txt
+R967044,Card,Patrick Mcbride,Clark Ltd,jeffrey94@anderson.com,619.53,14-07-2024,True,True,email_template_R967044.txt
+R290381,Card,Eric Jackson,Williams LLC,pstewart@hayes-meyers.info,250.3,08-02-2024,False,False,email_template_R290381.txt
+R890066,Card,Manuel Ramirez,Brewer Ltd,lopezeric@camacho.com,208.56,20-07-2024,False,False,email_template_R890066.txt
+R391903,Card,Katherine Hunt,Cochran PLC,angelachase@reid-harris.net,599.67,02-07-2024,False,False,email_template_R391903.txt
+R752698,Card,Mrs. Robin Obrien,Stevenson Group,frichard@smith-cox.com,611.7,27-06-2024,False,False,email_template_R752698.txt
+R626445,Card,Brian Key,Bauer-Hill,wrobinson@walton-smith.com,303.45,21-03-2024,False,False,email_template_R626445.txt
+R378516,Card,Amy Garcia,Carroll Group,chavezsuzanne@hampton.com,267.54,13-02-2024,False,False,email_template_R378516.txt

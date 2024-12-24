@@ -1,0 +1,18 @@
+Subject: Receipt Details - R356441
+
+Dear nan,
+
+Please find the details of your receipt below:
+
+Receipt Number: R356441
+Transaction Type: Card
+Client Name: Lori Smith
+Amount: 763.51
+Date: 01-06-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

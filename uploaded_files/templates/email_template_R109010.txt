@@ -1,0 +1,18 @@
+Subject: Receipt Details - R109010
+
+Dear Bryan-Moore,
+
+Please find the details of your receipt below:
+
+Receipt Number: R109010
+Transaction Type: Card
+Client Name: Dr. Michael Singh
+Amount: 388.45
+Date: 11-05-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

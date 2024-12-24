@@ -1,0 +1,18 @@
+Subject: Receipt Details - R391903
+
+Dear Cochran PLC,
+
+Please find the details of your receipt below:
+
+Receipt Number: R391903
+Transaction Type: Card
+Client Name: Katherine Hunt
+Amount: 599.67
+Date: 02-07-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

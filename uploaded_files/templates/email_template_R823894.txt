@@ -1,0 +1,18 @@
+Subject: Receipt Details - R823894
+
+Dear Gibbs-Dunlap,
+
+Please find the details of your receipt below:
+
+Receipt Number: R823894
+Transaction Type: Cheque
+Client Name: Andrew Patel
+Amount: 415.45
+Date: 12-01-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

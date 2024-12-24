@@ -1,0 +1,18 @@
+Subject: Receipt Details - R745051
+
+Dear Ewing, Wilson and Garcia,
+
+Please find the details of your receipt below:
+
+Receipt Number: R745051
+Transaction Type: Cheque
+Client Name: Ronald Baker MD
+Amount: 143.23
+Date: 01-01-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

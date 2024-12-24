@@ -1,0 +1,18 @@
+Subject: Receipt Details - R287521
+
+Dear Rogers Inc,
+
+Please find the details of your receipt below:
+
+Receipt Number: R287521
+Transaction Type: Card
+Client Name: Jennifer Gonzalez
+Amount: 132.27
+Date: 13-02-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

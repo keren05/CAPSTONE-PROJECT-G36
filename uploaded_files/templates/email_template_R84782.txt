@@ -1,0 +1,18 @@
+Subject: Receipt Details - R84782
+
+Dear Anderson-Thompson,
+
+Please find the details of your receipt below:
+
+Receipt Number: R84782
+Transaction Type: Cheque
+Client Name: Jacqueline Townsend
+Amount: 275.04
+Date: 15-04-2024
+Exception Status: Yes
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

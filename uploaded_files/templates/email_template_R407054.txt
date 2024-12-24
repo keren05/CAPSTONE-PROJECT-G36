@@ -1,0 +1,18 @@
+Subject: Receipt Details - R407054
+
+Dear Tran Ltd,
+
+Please find the details of your receipt below:
+
+Receipt Number: R407054
+Transaction Type: Card
+Client Name: Valerie Hoover
+Amount: 620.87
+Date: 27-05-2024
+Exception Status: Yes
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

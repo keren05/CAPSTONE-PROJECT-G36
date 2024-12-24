@@ -1,0 +1,18 @@
+Subject: Receipt Details - R45630
+
+Dear Brown-Casey,
+
+Please find the details of your receipt below:
+
+Receipt Number: R45630
+Transaction Type: Cheque
+Client Name: Daniel Pope
+Amount: 842.4
+Date: 03-10-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

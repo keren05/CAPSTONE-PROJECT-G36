@@ -1,0 +1,18 @@
+Subject: Receipt Details - R622644
+
+Dear Barry Inc,
+
+Please find the details of your receipt below:
+
+Receipt Number: R622644
+Transaction Type: Card
+Client Name: Jamie Duke
+Amount: 756.01
+Date: 16-02-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

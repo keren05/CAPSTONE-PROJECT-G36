@@ -1,0 +1,18 @@
+Subject: Receipt Details - R591595
+
+Dear Salas and Sons,
+
+Please find the details of your receipt below:
+
+Receipt Number: R591595
+Transaction Type: Cheque
+Client Name: James Williams
+Amount: 228.52
+Date: 08-02-2024
+Exception Status: No
+Paper Receipt: Yes
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

@@ -1,0 +1,18 @@
+Subject: Receipt Details - R991697
+
+Dear Evans Group,
+
+Please find the details of your receipt below:
+
+Receipt Number: R991697
+Transaction Type: Card
+Client Name: David Johnson
+Amount: 974.92
+Date: 08-09-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]

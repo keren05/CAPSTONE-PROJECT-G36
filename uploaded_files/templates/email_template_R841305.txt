@@ -1,0 +1,18 @@
+Subject: Receipt Details - R841305
+
+Dear Adams-Ramirez,
+
+Please find the details of your receipt below:
+
+Receipt Number: R841305
+Transaction Type: Card
+Client Name: Kelly Hayes
+Amount: 303.74
+Date: 07-02-2024
+Exception Status: No
+Paper Receipt: No
+
+Thank you for your cooperation.
+
+Best regards,
+[Presidency University]
