@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f9ad7fc5-cb91-4c55-8802-a4b0d94c44e0" name="Changes" comment="commit all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/receipts_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/receipts_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploaded_files/card_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/card_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploaded_files/cheque_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/cheque_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploaded_files/synthetic_receipt_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/synthetic_receipt_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/email_template_R189834.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/email_template_R189834.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/email_template_R202527.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/email_template_R202527.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/email_template_R356441.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/email_template_R356441.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/email_template_R791131.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/email_template_R791131.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/sample_template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/sample_template.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
