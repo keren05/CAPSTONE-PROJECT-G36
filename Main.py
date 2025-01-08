@@ -125,7 +125,7 @@ def process_files():
 
 # Build the Gradio interface
 with gr.Blocks() as app:
-    gr.Markdown("# File Upload and Finance Chatbot App")
+    gr.Markdown("# Finance Chatbot App")
 
     with gr.Row():
         file_upload = gr.File(label="Upload your files", file_types=None, file_count="multiple")

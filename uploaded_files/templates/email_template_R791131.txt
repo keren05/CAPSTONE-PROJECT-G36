@@ -6,7 +6,7 @@ Please find the details of your receipt below:
 
 Receipt Number: R791131
 Transaction Type: Card
-Client Name: Karen Valencia
+Client Name: Keren Elisheba 
 Amount: 264.27
 Date: 29-02-2024
 Exception Status: No

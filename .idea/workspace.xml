@@ -4,27 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ad7fc5-cb91-4c55-8802-a4b0d94c44e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradio/certificate.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FinanceReceipting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emailautomation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emailtemplate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integrated-receipt-processor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/receipts_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/segregation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/synthetic_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploaded_files/card_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploaded_files/cheque_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploaded_files/receipts_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploaded_files/synthetic_receipt_data.csv" afterDir="false" />
+    <list default="true" id="f9ad7fc5-cb91-4c55-8802-a4b0d94c44e0" name="Changes" comment="commit all">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/receipts_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/receipts_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded_files/card_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/card_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded_files/cheque_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/cheque_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded_files/synthetic_receipt_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/synthetic_receipt_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/email_template_R189834.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/email_template_R189834.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/email_template_R202527.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/email_template_R202527.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/email_template_R356441.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/email_template_R356441.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/email_template_R791131.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/email_template_R791131.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded_files/templates/sample_template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/uploaded_files/templates/sample_template.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/keren05/CAPSTONE-PROJECT-G36",
-    "accountId": "533b6f30-1606-4730-ad91-49198f0a0124"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;keren05&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/keren05/CAPSTONE-PROJECT-G36&quot;,
+    &quot;accountId&quot;: &quot;533b6f30-1606-4730-ad91-49198f0a0124&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -58,20 +55,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Main.executor": "Run",
-    "Python.emailautomation.executor": "Run",
-    "Python.emailtemplate.executor": "Run",
-    "Python.integrated-receipt-processor.executor": "Run",
-    "Python.ocr.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/keren/PycharmProjects/FinanceReceipting/uploaded_files",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.emailautomation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.emailtemplate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.integrated-receipt-processor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/keren/PycharmProjects/FinanceReceipting/uploaded_files&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\keren\PycharmProjects\FinanceReceipting\uploaded_files" />
@@ -98,9 +95,31 @@
       <option name="presentableId" value="Default" />
       <updated>1734931540491</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit all">
+      <option name="closed" value="true" />
+      <created>1735025167231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735025167231</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit all" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all" />
   </component>
 </project>

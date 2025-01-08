@@ -1,8 +1,8 @@
 receipt_number,transaction_type,client_name,vendor_name,vendor_email,amount,date,is_exception,is_paper,template_name
-R189834,Card,Patricia Brown,Hudson Group,kerenelisheba5@gmail.com,653.17,15-06-2024,False,False,email_template_R189834.txt
-R356441,Card,Lori Smith,,chiragks2003cr7@gmail.com,763.51,01-06-2024,False,False,email_template_R356441.txt
-R202527,Card,Julie Howard,Johnson-Tanner,vikhyathmb44@gmail.com,897.06,09-04-2024,True,True,email_template_R202527.txt
-R791131,Card,Karen Valencia,Hamilton LLC,elishebakeren@gmail.com,264.27,29-02-2024,False,False,email_template_R791131.txt
+R189834,Card,Keren ,Hudson Group,kerenelisheba5@gmail.com,653.17,15-06-2024,False,False,email_template_R189834.txt
+R356441,Card,Chirag K Srinivas,,chiragks2003cr7@gmail.com,763.51,01-06-2024,False,False,email_template_R356441.txt
+R202527,Card,Vikhyath M B,Johnson-Tanner,vikhyathmb44@gmail.com,897.06,09-04-2024,True,True,email_template_R202527.txt
+R791131,Card,Keren Elisheba ,Hamilton LLC,elishebakeren@gmail.com,264.27,29-02-2024,False,False,email_template_R791131.txt
 R60613,Card,Sierra Murphy,"Jones, Howell and Stewart",xleach@avila.biz,146.29,29-04-2024,False,True,email_template_R60613.txt
 R827688,Cheque,Frederick Ochoa,Turner and Sons,jessicalong@brown-jones.net,467.49,07-02-2024,False,False,email_template_R827688.txt
 R116854,Card,Jasmine Robbins,Campbell Inc,tammyperez@chavez-mejia.org,155.02,21-02-2024,False,False,email_template_R116854.txt

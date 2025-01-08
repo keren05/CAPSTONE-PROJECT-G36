@@ -1,26 +1,26 @@
 Receipt Number,Transaction Date,Transaction Type,Transaction Amount,Currency,Vendor Name,File Name
-ed62f7f1-4245-42ac-948c-c8322627f35f,17/07/2024,Cheque,5043.82,GBP,Medina Inc,1003-receipt.jpg
-12a347c2-5d5f-4fea-9a60-70f3329d779c,05/05/2024,Card,5034.16,EUR,Brown-Contreras,1006-receipt.jpg
-39246868-1f6d-4a04-a5b1-b4f802751602,06/02/2024,Cheque,2324.25,GBP,"Soto, Gonzales and Nguyen",1013-receipt.jpg
-71a4dda7-9d61-4074-b24f-e1b34f3a5b93,26/01/2024,Card,1687.32,GBP,Johnson-Salas,1021-receipt.jpg
-45311336-363a-4039-b300-20cb290fde9c,24/04/2024,Cheque,9707.21,GBP,Spears-Wood,1028-receipt.jpg
-b0149c5f-3346-4733-a2af-f3ac304cd8d8,21/09/2024,Cheque,2503.26,USD,Rivera and Sons,1034-receipt.jpg
-14793718-c8af-4cb1-934c-18ac424b3a2b,22/02/2024,Card,4822.96,USD,"Gibson, Paul and Peck",1044-receipt.jpg
-f7ba512f-d111-4397-bb45-3cc89b8e72dd,13/08/2024,Card,2224.10,USD,Fox Group,1051-receipt.jpg
-1c12d41b-3a65-4dff-aced-d2de77ef2deb,28/05/2024,Cheque,1891.67,EUR,"Cruz, Sanders and Ross",1058-receipt.jpg
-18ed1a9c-d336-41c1-bacf-352d66776502,04/06/2024,Cheque,8631.5,EUR,Estes Ltd,1063-receipt.jpg
-f2281b49-8849-410a-8bd0-27eebf43215b,30/05/2024,Cheque,6602.53,USD,Nguyen and Sons,1076-receipt.jpg
-4224ff71-92b4-450a-98d3-39ff4d1d79fb,30/11/2024,Cheque,1268.98,USD,Morgan-Johnson,1082-receipt.jpg
-e0527858-ed78-496c-afb4-f177d6053bac,22/01/2024,Card,6108.92,EUR,Castro Inc,1097-receipt.jpg
-2dc06553-cf63-49f5-b55d-e95a89750693,12/01/2024,Card,2791.91,INR,"Bond, Graham and Dunn",1101-receipt.jpg
-89f6863c-67be-42b9-8e62-98f7daf21538,22/11/2024,Cheque,3164.91,GBP,Hill and Sons,1108-receipt.jpg
-6089ab6e-82e9-4acf-b0ab-b3fcffa622e3,22/03/2024,Cheque,4399.67,INR,Ellis LLC,1114-receipt.jpg
-3438bdcf-41bf-4271-8912-6b64617c5fef,16/10/2024,Card,922.81,USD,Harrington LLC,1126-receipt.jpg
-c806a95d-42eb-4bd4-8344-89fb3cb91e03,04/07/2024,Card,9938.9,USD,Scott-Tucker,1133-receipt.jpg
-e3194c83-d026-450e-9b45-c92c52c7b6d3,21/09/2024,Cheque,3275.85,INR,Mcdonald-Grimes,1143-receipt.jpg
-aeb067a5-b093-403b-8900-62727a3a562e,11/07/2024,Card,8771.60,EUR,Anderson-Hunt,1156-receipt.jpg
-54558e04-1060-4c2f-a563-0d0007eed24a,30/05/2024,Cheque,7720.52,GBP,"Black, Carroll and Cook",1164-receipt.jpg
-6dcc5d31-f88a-4060-b660-665069a5770e,18/10/2024,Cheque,4317.76,INR,"Salazar, Hamilton and Jacobs",1171-receipt.jpg
-d0c5b1a3-fc0a-4ec2-9b0c-e3912e833abd,25/06/2024,Card,5287.84,GBP,Brown-Valencia,1178-receipt.jpg
-bb9578d1-5c52-4b8e-853d-31813736c55f,23/04/2024,Card,572.23,USD,Sims-Williams,1185-receipt.jpg
-021ba44c-e80b-40c2-9be8-006df6c3e234,02/08/2024,Cheque,9501.3,EUR,Chavez and Sons,1190-receipt.jpg
+ddbbaf76-429f-4a21-a68c-b8e3006fcbb1,30/11/2024,Cheque,1044.56,GBP,Jones-Lopez,1003-receipt.jpg
+0218a819-4e56-448c-8e2a-9b69332bddb2,03/01/2024,Cheque,2289.47,USD,Simmons LLC,1006-receipt.jpg
+ef946839-3367-4091-a056-28c1778aea6c,20/08/2024,Cheque,199.35,USD,"Alvarez, Willis and Rios",1013-receipt.jpg
+deea76cb-f2d1-4c6b-afc0-74cbca61e6c9,18/10/2024,Cheque,9483.90,INR,Gray Group,1021-receipt.jpg
+80799b24-9842-496c-a37c-e22f3d1cb5dc,11/02/2024,Cheque,9378.3,EUR,Aguirre-Cervantes,1028-receipt.jpg
+91ede61d-c7ac-4089-8051-4847788dbb78,18/05/2024,Card,6722.19,INR,"Wilson, Smith and Stark",1034-receipt.jpg
+cc87b244-f61e-4627-ae71-38e968045331,01/08/2024,Cheque,9124.38,GBP,Smith Inc,1044-receipt.jpg
+e89fb325-6702-4192-97b3-551d8adbb9b5,05/09/2024,Cheque,6443.94,EUR,"Gonzalez, Mendoza and Burns",1051-receipt.jpg
+1df93e05-e342-44c2-96e4-9e70d66b62ed,28/09/2024,Card,3238.53,GBP,Hopkins-Adams,1058-receipt.jpg
+0f93dae9-1f5a-4795-856e-bacc68fdec30,18/10/2024,Card,1018.58,EUR,"Montes, Sutton and Russell",1063-receipt.jpg
+bdde3b63-8574-43ba-a6e2-e9cd344f11e4,16/06/2024,Card,7403.40,EUR,Adkins LLC,1076-receipt.jpg
+12583f7c-b61d-4355-b8c1-aeb916a44e8b,14/02/2024,Cheque,1193.59,USD,"Caldwell, Mata and Jimenez",1082-receipt.jpg
+4e78b672-60a9-4aa6-8edc-25e072d033c5,06/09/2024,Card,8591.23,USD,Fleming Ltd,1097-receipt.jpg
+ef4b272c-22b8-420f-bf78-d9133784c771,20/03/2024,Cheque,933.30,GBP,"Johnson, Hall and Lawrence",1101-receipt.jpg
+d2eb6457-178c-4f5a-90c4-338aefc0c744,19/11/2024,Cheque,7440.64,INR,"Williams, Finley and Davis",1108-receipt.jpg
+deb50dc9-6017-4022-9fa5-f59d2140e107,18/12/2024,Cheque,4033.0,GBP,"Nunez, Thompson and Richard",1114-receipt.jpg
+672dcf71-d8ca-4551-954b-4154704ba016,24/10/2024,Cheque,1552.79,USD,Garcia Ltd,1126-receipt.jpg
+928e5489-d68c-4933-b0e4-f68b03623a0e,24/07/2024,Cheque,7462.41,USD,"Mercado, Evans and Ortiz",1133-receipt.jpg
+d5140210-e98e-46e0-b846-8293a7268123,19/03/2024,Card,9096.70,INR,Jones Ltd,1143-receipt.jpg
+181824c2-cfb1-4e43-9bc1-0d4046e1b366,12/12/2024,Cheque,4155.97,EUR,"Myers, Roberson and Hines",1156-receipt.jpg
+d388cac4-b9fb-47a1-b10d-1d39f99e6baa,14/03/2024,Cheque,8562.26,GBP,Shepard LLC,1164-receipt.jpg
+4e9d0087-e7c1-40eb-80d4-edb57b2b2844,12/07/2024,Card,8005.94,EUR,Davis-Williams,1171-receipt.jpg
+82ad817d-d675-4fff-9009-d352866f8411,09/10/2024,Cheque,3134.96,USD,Johnson LLC,1178-receipt.jpg
+c1ce1245-3999-4335-8215-f60ab5c18b7f,09/09/2024,Card,7236.82,INR,Rice and Sons,1185-receipt.jpg
+0c1d2fe8-8e12-498c-aeeb-016b8f67d398,16/08/2024,Card,5971.40,EUR,Washington-Elliott,1190-receipt.jpg
